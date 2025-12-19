@@ -1,4 +1,6 @@
-# Блокировски разных ресурсов для организации
+## Title: TheGreatWall_ipv4
+## Blocking DoH providers at firewall level
+## This list has been created for security purpose ONLY
 pornohub.com
 habr.com
 178.248.237.68
