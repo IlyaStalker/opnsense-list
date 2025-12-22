@@ -4,13 +4,8 @@
 ===================================================================
 .pornohub.com
 # habr
-habr.com
+.habr.com
 # Stavka
-stavka.tv
-*.stavka.tv
-static.stavka.tv
-sports.ru
-vk.com
-
-# Reklama
-ads.adfox.ru
+.stavka.tv
+.sports.ru
+.vk.com
