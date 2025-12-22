@@ -7,3 +7,4 @@
 habr.com
 # Stavka
 stavka.tv
+sports.ru
