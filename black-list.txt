@@ -6,9 +6,9 @@
 # habr
 habr.com
 # Stavka
+stavka.tv
 *.stavka.tv
 static.stavka.tv
-stavka.tv/_nuxt
 sports.ru
 vk.com
 
