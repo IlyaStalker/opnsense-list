@@ -8,5 +8,9 @@ habr.com
 # Stavka
 stavka.tv
 static.stavka.tv
+stavka.tv/_nuxt
 sports.ru
 vk.com
+
+# Reklama
+ads.adfox.ru
