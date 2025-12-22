@@ -1,11 +1,8 @@
-## Блокировки для pfsense и opnsense
-## Созданные для организации
-## This list has been created for security purpose ONLY
-===================================================================
-.pornohub.com
+# porno
+pornohub.com
 # habr
-.habr.com
+habr.com
 # Stavka
-.stavka.tv
-www.sports.ru
-.vk.com
+stavka.tv
+sports.ru
+vk.com
