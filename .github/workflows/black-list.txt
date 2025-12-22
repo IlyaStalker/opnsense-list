@@ -3,5 +3,7 @@
 ## This list has been created for security purpose ONLY
 ===================================================================
 .pornohub.com
+# habr
 habr.com
+# Stavki
 stavka.tv
