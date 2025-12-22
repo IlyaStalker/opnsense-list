@@ -1,7 +1,7 @@
-## Title: TheGreatWall_ipv4
-## Blocking DoH providers at firewall level
+## Блокировки для pfsense и opnsense
+## Созданные для организации
 ## This list has been created for security purpose ONLY
 ===================================================================
-pornohub.com
+.pornohub.com
 # habr
 habr.com
