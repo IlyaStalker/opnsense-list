@@ -7,5 +7,5 @@
 .habr.com
 # Stavka
 .stavka.tv
-.sports.ru
+www.sports.ru
 .vk.com
