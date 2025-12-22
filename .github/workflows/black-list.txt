@@ -4,6 +4,6 @@
 ===================================================================
 .pornohub.com
 # habr
-.habr.com
+10.10.10.1 habr.com
 # Stavki
-.stavka.tv
+10.10.10.1 stavka.tv
