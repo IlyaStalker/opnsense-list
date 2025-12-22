@@ -3,5 +3,5 @@
 ## This list has been created for security purpose ONLY
 ===================================================================
 .pornohub.com
-.habr.com
-.stavka.tv
+habr.com
+stavka.tv
